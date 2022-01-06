@@ -52,15 +52,15 @@ p {
 }
 
 .mission {
-  background-color: aqua;
+  background-color: rgba(188, 143, 143, 0.096);
 }
 
 .vission {
-  background-color: blueviolet;
+  background-color: rgba(0, 255, 255, 0.096);
 }
 
 .goal {
-  background-color: burlywood;
+  background-color: rgba(172, 68, 241, 0.096);
 }
 
 .image {
