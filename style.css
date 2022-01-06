@@ -80,10 +80,28 @@ p {
   padding: 20px;
 }
 
+.padding-sec3n4 {
+  padding: 50px;
+}
+
 .section-3-4-text {
   width: 60%;
   align-items: center;
   padding: 20px;
+}
+
+.bg-img-sec3 {
+  background-image: url(./shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 15%;
+  background-position: 70px 120px;
+}
+
+.bg-img-sec4 {
+  background-image: url(./shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 13%;
+  background-position: 1090px 330px;
 }
 
 .section-3-4-text h2 {
@@ -95,7 +113,7 @@ p {
   width: 90%;
 }
 
-.image-bottom-banner {
+.image-bottom-app {
   width: 40%;
   margin-left: 150px;
 }
