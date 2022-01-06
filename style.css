@@ -1,13 +1,15 @@
 body {
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
+  background-color: aliceblue;
 }
 
 .top-heading {
   font-family: "Limelight", cursive;
   font-size: 50px;
+  border-left: 4px solid rgb(17, 51, 160);
+
   padding-left: 10px;
-  border-left: 3px solid black;
 }
 
 .section-heading {
