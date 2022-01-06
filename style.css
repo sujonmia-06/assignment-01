@@ -7,7 +7,7 @@ body {
 .top-heading {
   font-family: "Limelight", cursive;
   font-size: 50px;
-  border-left: 4px solid rgb(0, 140, 255);
+  border-left: 4px solid rgb(0, 110, 255);
 
   padding-left: 10px;
 }
@@ -101,7 +101,7 @@ p {
   background-image: url(./shapes/shape-1.png);
   background-repeat: no-repeat;
   background-size: 13%;
-  background-position: 1090px 330px;
+  background-position: 980px 310px;
 }
 
 .section-3-4-text h2 {
@@ -121,9 +121,9 @@ p {
 .bg-img-sec5 {
   background-image: url(./shapes/shape-3.png), url(./shapes/shape-3.png),
     url(./shapes/shape-3.png);
-  background-position: 240px 60px, 460px 380px, 270px 510px;
+  background-position: 250px 90px, 440px 340px, 270px 470px;
   background-repeat: no-repeat;
-  background-size: 12%, 7%, 7%;
+  background-size: 10%, 7%, 7%;
 }
 
 .apphead {
