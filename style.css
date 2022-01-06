@@ -118,6 +118,14 @@ p {
   margin-left: 150px;
 }
 
+.bg-img-sec5 {
+  background-image: url(./shapes/shape-3.png), url(./shapes/shape-3.png),
+    url(./shapes/shape-3.png);
+  background-position: 240px 60px, 460px 380px, 270px 510px;
+  background-repeat: no-repeat;
+  background-size: 12%, 7%, 7%;
+}
+
 .apphead {
   text-align: left !important;
 }
