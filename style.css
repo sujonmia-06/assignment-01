@@ -7,7 +7,7 @@ body {
 .top-heading {
   font-family: "Limelight", cursive;
   font-size: 50px;
-  border-left: 4px solid rgb(17, 51, 160);
+  border-left: 4px solid rgb(0, 140, 255);
 
   padding-left: 10px;
 }
@@ -59,7 +59,7 @@ p {
 }
 
 .mission {
-  background-color: rgba(188, 143, 143, 0.096);
+  background-color: rgba(0, 89, 255, 0.096);
 }
 
 .vission {
@@ -130,6 +130,6 @@ footer h2 {
   font-family: "Limelight", cursive;
   font-style: italic;
 }
-.brightseagreen-color {
-  color: rgb(0, 223, 211);
+.purple-color {
+  color: rgb(104, 0, 223);
 }
