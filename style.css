@@ -29,6 +29,8 @@ p {
   width: 80%;
   margin: 0 auto;
   display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .flexiable-container p {
@@ -38,8 +40,7 @@ p {
 .half-width {
   width: 50%;
   align-items: center;
-  margin-top: 30px;
-  margin-bottom: 30px;
+
   padding: 20px;
 }
 
