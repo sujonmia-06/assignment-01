@@ -23,7 +23,6 @@ h1 {
 p {
   line-height: 24px;
   font-size: 18px;
-  margin-top: 50px;
 }
 
 .flexiable-container {
@@ -46,9 +45,22 @@ p {
 
 .mission-cards {
   width: 33%;
-  padding: 20px;
+  padding: 30px;
   margin-left: 10px;
   margin-right: 10px;
+  border-radius: 30px;
+}
+
+.mission {
+  background-color: aqua;
+}
+
+.vission {
+  background-color: blueviolet;
+}
+
+.goal {
+  background-color: burlywood;
 }
 
 .image {
