@@ -12,8 +12,8 @@ body {
 
 .section-heading {
   text-align: center;
-  font-weight: 900px !important;
-  font-size: 45px;
+  font-weight: 900px;
+  font-size: 50px;
 }
 
 h1 {
@@ -23,6 +23,11 @@ h1 {
 p {
   line-height: 24px;
   font-size: 18px;
+}
+
+.image-top-banner {
+  width: 85%;
+  margin-left: 90px;
 }
 
 .flexiable-container {
@@ -40,7 +45,6 @@ p {
 .half-width {
   width: 50%;
   align-items: center;
-
   padding: 20px;
 }
 
@@ -64,13 +68,38 @@ p {
   background-color: rgba(172, 68, 241, 0.096);
 }
 
-.image {
-  width: 85%;
-  margin-left: 90px;
-}
-
 .illustration-img {
   width: 120px;
+}
+
+.section-3-4-image {
+  width: 40%;
+  align-items: center;
+  padding: 20px;
+}
+
+.section-3-4-text {
+  width: 60%;
+  align-items: center;
+  padding: 20px;
+}
+
+.section-3-4-text h2 {
+  font-size: 40px;
+  color: rgb(32, 32, 32);
+}
+
+.image-section-3n4 {
+  width: 90%;
+}
+
+.image-bottom-banner {
+  width: 40%;
+  margin-left: 150px;
+}
+
+.apphead {
+  text-align: left !important;
 }
 
 .link-btn {
